@@ -1,0 +1,1 @@
+Aprendendo sobre os Matchers do Jest, para testar valores de formas diferentes
